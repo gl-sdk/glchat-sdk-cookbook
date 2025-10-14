@@ -8,7 +8,7 @@ Welcome to the **GLChat SDK Cookbook** - your comprehensive collection of sample
 
    ```bash
    git clone https://github.com/gl-sdk/glchat-sdk-cookbook.git
-   cd glchat
+   cd glchat-sdk-cookbook
    ```
 
 2. **Follow the README in each subfolder** for specific setup instructions and examples
