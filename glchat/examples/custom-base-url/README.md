@@ -8,7 +8,7 @@ Please refer to prerequisites [here](../../README.md#️-prerequisites).
 
    ```bash
    git clone https://github.com/gl-sdk/glchat-sdk-cookbook.git
-   cd glchat-sdk-cookbook/glchat/examples/hello-world
+   cd glchat-sdk-cookbook/glchat/examples/custom-base-url
    ```
 
 2. **Run the example**
