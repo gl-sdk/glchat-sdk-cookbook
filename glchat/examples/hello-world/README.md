@@ -21,7 +21,7 @@ Please refer to prerequisites [here](../../README.md#️-prerequisites).
 
    You should see a response from the GLChat SDK, similar to:
 
-   ```json
+   ```
    data:{"status": "response", "message": "Hello", "conversation_id": null, "user_message_id": null, "assistant_message_id": null, "created_date": 1759807781001, "stream_message_only": false}
    data:{"status": "response", "message": "Hello!", "conversation_id": null, "user_message_id": null, "assistant_message_id": null, "created_date": 1759807781012, "stream_message_only": false}
    data:{"status": "response", "message": "Hello! How", "conversation_id": null, "user_message_id": null, "assistant_message_id": null, "created_date": 1759807781023, "stream_message_only": false}

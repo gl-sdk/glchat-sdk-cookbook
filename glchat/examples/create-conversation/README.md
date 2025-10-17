@@ -21,7 +21,7 @@ Please refer to prerequisites [here](../../README.md#️-prerequisites).
 
    You should see a response from the GLChat SDK, similar to:
 
-   ```json
+   ```
    Created conversation: {
       "conversation": {
          "id": "9f419f9d-b443-4cde-8e91-a83573cf0d38",

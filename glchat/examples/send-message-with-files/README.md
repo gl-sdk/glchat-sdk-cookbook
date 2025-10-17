@@ -21,7 +21,7 @@ Please refer to prerequisites [here](../../README.md#️-prerequisites).
 
    You should see a response from the GLChat SDK, similar to:
 
-   ```json
+   ```
    data:{
       "status": "data",
       "message": "{\"data_type\": \"process\", \"data_value\": {\"id\": \"33c9ee090404be9f7390431911e2fd676cc89a98cb355c102159e8646d4ea332\", \"message\": \"Processing file(s)\", \"status\": \"running\", \"time\": 0.0}}",
