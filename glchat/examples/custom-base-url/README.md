@@ -32,3 +32,7 @@ Please refer to prerequisites [here](../../README.md#️-prerequisites).
    data:{"status": "response", "message": "Hello! How can I assist you today", "conversation_id": null, "user_message_id": null, "assistant_message_id": null, "created_date": 1759807781081, "stream_message_only": false}
    data:{"status": "response", "message": "Hello! How can I assist you today?", "conversation_id": null, "user_message_id": null, "assistant_message_id": null, "created_date": 1759807781092, "stream_message_only": false}
    ```
+
+## 📚 Reference
+
+This example is based on the [GLChat SDK documentation](https://gdplabs.gitbook.io/glchat/sdk/how-to-guides/custom-base-url).

@@ -38,3 +38,7 @@ Please refer to prerequisites [here](../../README.md#️-prerequisites).
       }
    }
    ```
+
+## 📚 Reference
+
+This example is based on the [GLChat SDK documentation](https://gdplabs.gitbook.io/glchat/sdk/how-to-guides/create-conversation).

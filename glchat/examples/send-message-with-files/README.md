@@ -64,3 +64,7 @@ Please refer to prerequisites [here](../../README.md#️-prerequisites).
       "created_date": 1758598047460
    }
    ```
+
+## 📚 Reference
+
+This example is based on the [GLChat SDK documentation](https://gdplabs.gitbook.io/glchat/sdk/how-to-guides/sending-message-with-files).
