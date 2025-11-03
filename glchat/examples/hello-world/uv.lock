@@ -35,14 +35,14 @@ wheels = [
 
 [[package]]
 name = "glchat-sdk"
-version = "0.0.3"
+version = "0.0.8"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "httpx" },
     { name = "pydantic" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/27/23/7699e419371927262994e33347d650e1c28939803d4c9a751b00b69ed6f0/glchat_sdk-0.0.3-py3-none-any.whl", hash = "sha256:52171993c378b1147fedf07bfe8bc0f066ee173ffa351f085af9455647180271", size = 21688, upload-time = "2025-09-24T08:23:06.243Z" },
+    { url = "https://files.pythonhosted.org/packages/3b/9a/70ef5c0b01459edd63a9788f6d3222bbdb75a2c67fca4f2a7b3353d1efea/glchat_sdk-0.0.8-py3-none-any.whl", hash = "sha256:53e2151ac5462e2d86395f8b974451580c8233a21f24aab3571132e4d44dff67", size = 22703, upload-time = "2025-11-03T14:11:07.998Z" },
 ]
 
 [[package]]
@@ -63,7 +63,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "glchat-sdk", specifier = ">=0.0.3" }]
+requires-dist = [{ name = "glchat-sdk", specifier = "==0.0.8" }]
 
 [[package]]
 name = "httpcore"

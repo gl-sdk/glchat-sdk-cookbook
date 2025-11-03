@@ -3,8 +3,8 @@ from glchat_sdk import GLChat
 client = GLChat()
 response = client.message.create(
     chatbot_id="no-op",
-    message="Hello!",
+    message="Hello! How can I assist you today?",
+    stream=False
 )
 
-for chunk in response:
-    print(chunk.decode("utf-8"), end="")
+print(response.message)
